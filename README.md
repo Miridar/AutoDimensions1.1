@@ -1,2 +1,2 @@
 # AutoDimensions1.1
-This project aims to train an AI to recognize dimensions on technical drawings. 
+This project aims to train an AI to recognize dimensions on technical drawings. The AI will be trained on a dataset of xml files that were converted from dxf files made with Autodesk Inventor that include both dimensions and non-dimensions. The goal is to train the AI to replicate how humans add dimensions to technical drawings, helping to streamline the design process. The project includes a script for sorting and labeling the training dataset, as well as the trained AI model and code for using it to add dimensions to new drawings.
